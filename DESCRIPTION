@@ -1,0 +1,14 @@
+Package: portaldatar
+Type: Package
+Title: Project Data Viz 
+Version: 0.1.0
+Authors@R: person("Davinder", "Singh", email = "davinderhothi2000@gmail.com", role = c("aut", "cre"))
+Maintainer: Davinder Singh <davinderhothi2000@gmail.com>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: GPL (>=2)
+Encoding: UTF-8
+LazyData: true
+Depends:
+    R (>= 4.2.2)
+RoxygenNote: 7.2.3
